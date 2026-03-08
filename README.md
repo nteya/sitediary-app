@@ -38,10 +38,10 @@ I built SiteDiary not only to test my software development skills, but also beca
 ## Screenshots
 
 ### Template Screen
-![Template Screen](screenshots/template-screen.jpg)
+![Template Screen](screenshots/templatescreen.jpg)
 
 ### PDF Generated
-![PDF Generated](screenshots/pdf-generated.jpg)
+![PDF Generated](screenshots/pdfgenerated.jpg)
 
 ## Demo Video
 Watch the demo on YouTube: [SiteDiary Demo](https://youtu.be/hhXcZTJ7Qx0)
