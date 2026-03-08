@@ -21,6 +21,9 @@ This project was created to help supervisors and site teams capture daily work i
 - Firestore
 - JavaScript
 
+## Demo Video
+Watch the demo on YouTube: [SiteDiary Demo](https://youtu.be/hhXcZTJ7Qx0)
+
 ## Status
 This project is actively being improved and expanded.
 
