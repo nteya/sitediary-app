@@ -4,7 +4,7 @@ import { getFirestore } from "firebase/firestore";
 
 // 🔴 Replace this with YOUR Firebase config from the Firebase console
 const firebaseConfig = {
-  apiKey: "AIzaSyBP6XW7-NioybS92LSGng3okRisOVoOFpM",
+  apiKey: "",
   authDomain: "varsity-majisty.firebaseapp.com",
   databaseURL: "https://varsity-majisty-default-rtdb.firebaseio.com",
   projectId: "varsity-majisty",
